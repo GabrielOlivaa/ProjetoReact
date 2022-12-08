@@ -1,0 +1,41 @@
+[
+    {
+        "id":1 ,
+        "camiseta": "Camiseta Need more space branca",
+        "descricao": "Camiseta vaza I need my space",
+        "tamanho":"P - M -G -GG",
+        "preco":130,
+        "imagem": "./img/brancam.png"
+
+    },{
+        "id":2 ,
+        "camiseta": "Camiseta Need more space cinza",
+        "descricao": "Camiseta nave espacial I need my space",
+        "tamanho":"P - M -G -GG",
+        "preco":100,
+        "imagem": "./img/cinzam.png"
+
+    },{
+        "id":3 ,
+        "camiseta": "Camiseta Need more space vermelha",
+        "descricao": "Camiseta I need my space in another planet astronauta macaco",
+        "tamanho":"P - M -G -GG",
+        "preco":110,
+        "imagem": "./img/vermelham.png"
+
+    },{
+        "id":4 ,
+        "camiseta": " Camiseta Need more space preta",
+        "descricao": "Camiseta I need my space astrounata nas estrelas",
+        "tamanho":"P - M -G -GG",
+        "preco":120,
+        "imagem": "./img/pretam.png"
+
+    }
+
+
+    
+
+] 
+
+    
